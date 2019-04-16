@@ -1,2 +1,2 @@
 import httpRequest
-import used_functions
+from used_functions import *
