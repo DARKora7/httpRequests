@@ -2,6 +2,8 @@ import requests
 from requests.exceptions import HTTPError
 from used_functions import *
 
+if __name__ =="__main__":
+    pass
 
 
 try:
