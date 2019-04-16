@@ -5,7 +5,7 @@ to use package import httpRequest using python IDE.
 
 alternatively,
 
-download "httpRequest.py" and "used_functions.py";
+download "httpRequest.py" and "used_functions.py" from the "standalone" Folder
 and run "httpRequest.py"
 
 in both cases a "ContactList.txt" file will be created with the extracted data as
